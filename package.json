@@ -13,6 +13,9 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
+  "publishConfig": {
+    "@MeekStudio:registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {
     "@azure/identity": "^4.0.0",
     "@azure/keyvault-keys": "^4.7.2",
